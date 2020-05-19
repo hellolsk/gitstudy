@@ -1,2 +1,2 @@
-使用git客户端同步到github
+浣跨敤git瀹㈡埛绔悓姝ュ埌github
 use utf-8bom
